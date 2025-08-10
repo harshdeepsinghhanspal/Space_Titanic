@@ -12,12 +12,6 @@ The goal is to predict whether passengers were transported to another dimension 
 - 📊 Model Evaluation — Use accuracy, confusion matrix, precision, recall, and F1-score to assess performance
 - 📉 Visualization — Generate informative plots using Seaborn and Matplotlib
 
-## 📦 Requirements
-Install the required Python packages before running the notebook:
-```
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
 
 ## 📚 Workflow
 - Data Preprocessing
@@ -29,9 +23,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Perform hyperparameter tuning
 - Model Evaluation
 - Accuracy, confusion matrix, classification report
-
-Visualization of predictions
-
-Submission File Generation
-
-Generate .csv file for Kaggle submission
+- Visualization of predictions
+- Submission File Generation
+- Generate .csv file for Kaggle submission
